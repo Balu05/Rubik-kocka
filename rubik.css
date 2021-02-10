@@ -35,6 +35,9 @@ p{
   font-size: 70%;
   padding: 7px;
   font-weight: normal;
+    border: white solid 10px;
+    background-color: white;
+
 }
 
 li{
