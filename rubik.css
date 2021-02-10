@@ -1,4 +1,10 @@
+background {
+        background-image: url(hatterkocka.png);
+    
+}
+
 body{
+   background-image: url(hatterkocka.png);
   background-color: #ededc1;
   background-size: 70px 70px;
   background-repeat: repeat-y;
