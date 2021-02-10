@@ -18,10 +18,12 @@ background-image: url(hatterkocka.png);
 
 h1{
   margin: 40px 0px 100px 175px;
+    color: #443507;
 }
 
 p{
   text-align: justify;
+    color: #443507;
 }
 
 
