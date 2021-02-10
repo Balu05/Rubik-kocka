@@ -13,7 +13,9 @@ background-image: url(hatterkocka.png);
 }
 
 #cimkep{
-  float:left;  
+    position:relative;
+  float:left;
+    bottom:30px;
 }
 
 h1{
